@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TestPens",
+            "request": "launch",
+            "mainClass": "TestPens",
+            "projectName": "interviewQuestions_54a7ddbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "interviewQuestions_54a7ddbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "args": "-ea",
+            "mainClass": "${file}"
+        }
+    ],
+    "compounds": []
+}
